@@ -1,2 +1,0 @@
-# myhouselocation.io
-houselocation
